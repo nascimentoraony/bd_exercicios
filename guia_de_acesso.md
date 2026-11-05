@@ -19,7 +19,7 @@ Instruções para conexão e uso do ambiente de banco de dados da disciplina.
 ### Passo 1: Acessar o pgAdmin Web
 1. Abra o navegador e acesse: [http://141.94.20.16:8080](http://141.94.20.16:8080)
 2. Faça login com suas credenciais institucionais:
-   * **Email / Username:** `seu.nome.sobrenome@aula.com`
+   * **Email / Username:** `nome.sobrenome@aula.com`
    * **Senha:** `primeironome` + `matrícula` *(em minúsculas, sem espaços ou acentos; ex.: `joao12345`)*
 
 ---
