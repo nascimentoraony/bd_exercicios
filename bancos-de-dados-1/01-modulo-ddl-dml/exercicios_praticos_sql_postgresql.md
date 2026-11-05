@@ -11,9 +11,6 @@
 
 ---
 
-
----
-
 ## FASE 1: Definição de Esquema e Estruturas Físicas (DDL)
 
 ### Comando 01: Criar tabela CATEGORIA
