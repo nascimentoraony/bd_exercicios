@@ -1,6 +1,6 @@
 # 📝 Lista de Exercícios Práticos: DDL, DML e DQL (PostgreSQL)
 
-Este repositório contém uma lista estruturada de 20 exercícios práticos progressivos para serem executados no PostgreSQL, baseados no esquema empresarial e de e-commerce carregado via `script_simulacao_consultas_postgresql.sql`.
+Este repositório contém uma lista estruturada de 20 exercícios práticos progressivos para serem executados no PostgreSQL, baseados no esquema empresarial e de e-commerce carregado via `criacao_db_teste.sql`.
 
 ---
 
